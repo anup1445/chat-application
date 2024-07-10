@@ -1,5 +1,6 @@
-# ChatFriend
-
+# ChatFriend 
+visit at (https://chat-application-three-tau.vercel.app/)
+  
 ChatFriend is a real-time chat application built with Node.js, Express, and Socket.IO for seamless communication between users. It allows users to join different chat rooms based on their preferences and engage in conversations with other users within the same room. The application provides a simple and intuitive interface for sending and receiving messages instantly.
 
 
